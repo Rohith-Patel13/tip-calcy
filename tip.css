@@ -1,0 +1,15 @@
+.bg{
+    background-color: black;
+    height: 100vh;
+}
+.heading{
+    color: #1c6282;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.tipCard{
+    background: linear-gradient(to top,#cce1f2,#c6f8e5);
+    height: 50vh;
+    width: 50vh;
+    border-radius: 8px;
+}
